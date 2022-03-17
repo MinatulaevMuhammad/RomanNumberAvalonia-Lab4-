@@ -1,12 +1,12 @@
 using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
-using RomanNumberAvalonia_Lab4_.ViewModels;
-using RomanNumberAvalonia_Lab4_.Views;
+using AvaloniaApplication1.ViewModels;
+using AvaloniaApplication1.Views;
 
-namespace RomanNumberAvalonia_Lab4_
+namespace AvaloniaApplication1
 {
-    public partial class App : Application
+    public class App : Application
     {
         public override void Initialize()
         {

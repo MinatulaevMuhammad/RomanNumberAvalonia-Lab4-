@@ -1,9 +1,10 @@
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using RomanNumberAvalonia_Lab4_.ViewModels;
+using AvaloniaApplication1.ViewModels;
 using System;
+using RomanNumberAvalonia_Lab4_.ViewModels;
 
-namespace RomanNumberAvalonia_Lab4_
+namespace AvaloniaApplication1
 {
     public class ViewLocator : IDataTemplate
     {
